@@ -3,6 +3,7 @@
 [![Join the chat at https://gitter.im/start-angular/sb-admin-angular](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/start-angular/sb-admin-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v2.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular Theme.
+This repo has angular free theme with google api client, services and controller written to use google api's.
 
 Find out more [Free Angular Themes at StartAngular.com](http://www.startangular.com/).
 
@@ -60,3 +61,7 @@ sudo chown -R [user name] ~/.config
 ### Automation tools
 
 - [Grunt](http://gruntjs.com/)
+=======
+
+
+
